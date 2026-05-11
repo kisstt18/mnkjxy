@@ -1,9 +1,6 @@
 ![梦开始的地方](images/梦开始的地方.png)
 # 📘 闽南科技学院 · 数据科学与大数据技术
 
-> 从专科到本科，从基础到进阶。  
-> 每一行笔记，都是向上的脚印。
-
 `Python` `SQL` `Hadoop` `Spark` `Linux` `Git` `Markdown`
 
 ---
@@ -66,7 +63,7 @@ zsb_mnkjxy/
 |------|------|
 | 版本控制 | Git + GitHub |
 | 笔记 | Markdown |
-| 编程 | Python · Java · C |
+| 编程 | Python · C |
 | 数据库 | MySQL · PostgreSQL |
 | 大数据 | Hadoop · Spark · Hive |
 | Linux | Bash / Shell |
@@ -81,7 +78,7 @@ MIT © kisstt18
 
 ## ⏰️ time
 
-2026.5.11
+- 2026.5.11
 
 ---
 
