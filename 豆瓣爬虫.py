@@ -23,12 +23,12 @@ headers ={
 for start_num in range(0,250,25):
     print(start_num)
 
-    response = requests.get(f"https://movie.douban.com/explore?start={start_num}",headers=headers)
+    response = requests.get(f"https://movie.douban.com/top250?start={start_num}",headers=headers)
     html = response.text     #返回源码
     soup = BeautifulSoup(html,"html.parser")   #构造函数
-    all_Titles = soup.findAll("span",attrs={"class":"title"})   #返回可迭代对象
+    all_Titles = soup.findAll("span",attrs={"class":"title"})   #返回可迭代对象  需要爬取的网站源代码中包含的数据
 
     for title in all_Titles:
-        title_string = title_string
-        if "/" not in title_string:
+        title_string = title.string
+        if "/" not in title_string:  #如果带有/的不在title里就打印输出
             print(title_string)
