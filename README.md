@@ -1,7 +1,7 @@
 ![梦开始的地方](images/梦开始的地方.png)
 # 📘 闽南科技学院 · 数据科学与大数据技术
 
-`Python` `SQL` `Hadoop` `Spark` `Linux` `Git` `Markdown`
+`Python` `Git` `Markdown`
 
 ---
 
@@ -23,25 +23,9 @@
 ```
 zsb_mnkjxy/
 ├── README.md                         # 本文件 · 仓库介绍
-├── 闽南科技学院_数据科学_学习规划.md   # 学习总体规划
-├── notes/                            # 各科目笔记（待建设）
-│   ├── python/
-│   ├── sql/
-│   ├── linux/
-│   ├── hadoop/
-│   └── machine-learning/
-├── projects/                         # 课程项目和实验
-└── images/                           # 图片资源
+├── python-learning-plan.md           # 学习总体规划
+
 ```
-
----
-
-## 🚀 快速导航
-
-- [📋 完整学习规划](闽南科技学院_数据科学_学习规划.md) — 学校概况、课程体系、详细计划
-- 各科目笔记陆续更新中……
-
----
 
 ## 🛠️ 使用到的工具和技术
 
@@ -49,10 +33,7 @@ zsb_mnkjxy/
 |------|------|
 | 版本控制 | Git + GitHub |
 | 笔记 | Markdown |
-| 编程 | Python · C |
-| 数据库 | MySQL · PostgreSQL |
-| 大数据 | Hadoop · Spark · Hive |
-| Linux | Bash / Shell |
+| 编程 | Python |
 
 ---
 
