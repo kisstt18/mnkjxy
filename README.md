@@ -26,7 +26,7 @@ zsb_mnkjxy/
 ├── python-learning-plan.md           # 学习总体规划
 ├── git-cheatsheet.md                 # Git 命令速查
 ├── requirements.txt                  # Python 依赖
-├── CHANGELOG.md                       # 学习日志
+├── CHANGELOG.md                      # 学习日志
 ├── Python_syntax/                    # Python 基础练习
 │   ├── BMIjisuanqi/
 │   ├── 99chengfabiao/
