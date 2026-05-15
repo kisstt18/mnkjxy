@@ -24,6 +24,13 @@
 zsb_mnkjxy/
 ├── README.md                         # 本文件 · 仓库介绍
 ├── python-learning-plan.md           # 学习总体规划
+├── Python_syntax/
+├── BMIjisuanqi/
+├── 99chengfabiao/
+├── caishuzi/
+└── student_list_and_dict/
+    ├── student_list/
+    └── student_dict/
 
 ```
 
