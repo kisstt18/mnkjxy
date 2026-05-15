@@ -22,16 +22,20 @@
 
 ```
 zsb_mnkjxy/
-├── README.md                         # 本文件 · 仓库介绍
+├── README.md                         # 仓库介绍
 ├── python-learning-plan.md           # 学习总体规划
-├── Python_syntax/
-    ├── BMIjisuanqi/
-    ├── 99chengfabiao/
-    ├── caishuzi/
-    |── student_list_and_dict/
-        ├── student_list/
-        └── student_dict/
-
+├── git-cheatsheet.md                 # Git 命令速查
+├── requirements.txt                  # Python 依赖
+├── CHANGELOG.md                       # 学习日志
+├── Python_syntax/                    # Python 基础练习
+│   ├── BMIjisuanqi/
+│   ├── 99chengfabiao/
+│   ├── caishuzi/
+│   └── student_list_and_dict/
+│       ├── student_list/
+│       └── student_dict/
+├── crawler_douban/                   # 豆瓣爬虫项目
+└── images/                           # 图片资源
 ```
 
 ## 🛠️ 使用到的工具和技术
