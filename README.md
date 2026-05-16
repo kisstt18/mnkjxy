@@ -28,12 +28,13 @@ zsb_mnkjxy/
 ├── requirements.txt                  # Python 依赖
 ├── CHANGELOG.md                      # 学习日志
 ├── Python_syntax/                    # Python 基础练习
-│   ├── BMIjisuanqi/
-│   ├── 99chengfabiao/
-│   ├── caishuzi/
-│   └── student_list_and_dict/
-│       ├── student_list/
-│       └── student_dict/
+│   ├── day01_BMIjisuanqi/
+│   ├── day02/                        # 99乘法表 + 猜数字
+│   │   ├── 99chengfabiao/
+│   │   └── caishuzi/
+│   ├── day03_student_list/
+│   ├── day04_student_dict/
+│   └── day05_word_count/
 ├── crawler_douban/                   # 豆瓣爬虫项目
 └── images/                           # 图片资源
 ```
