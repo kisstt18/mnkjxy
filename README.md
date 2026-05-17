@@ -34,7 +34,8 @@ zsb_mnkjxy/
 │   │   └── caishuzi/
 │   ├── day03_student_list/
 │   ├── day04_student_dict/
-│   └── day05_word_count/
+│   ├── day05_word_count/
+|   └── day06_function_review/   
 ├── crawler_douban/                   # 豆瓣爬虫项目
 └── images/                           # 图片资源
 ```
