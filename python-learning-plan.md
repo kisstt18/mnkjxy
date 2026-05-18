@@ -31,7 +31,7 @@
 | 天 | 学习内容 | 练习任务 | ✓ |
 |----|----------|----------|---|
 | 一 | 函数定义、参数（默认值、不定长）、`return` | 把上周代码都改写成函数 | √ |
-| 二 | `lambda`、`map/filter/reduce` | 用 `map/filter` 处理列表 | ☐ |
+| 二 | `lambda`、`map/filter/reduce` | 用 `map/filter` 处理列表 | √ |
 | 三 | `os` 模块（路径、目录操作）、`sys` 模块 | 写一个批量重命名文件的脚本 | ☐ |
 | 四 | 文件读写（`open/with`）、`csv` 模块 | 读取 CSV 文件统计汇总 | ☐ |
 | 五 | `json` 模块、`datetime` 模块 | 将数据写入 JSON 文件 | ☐ |
