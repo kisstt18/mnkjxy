@@ -32,10 +32,11 @@ zsb_mnkjxy/
 │   ├── day02/                        # 99乘法表 + 猜数字
 │   │   ├── 99chengfabiao/
 │   │   └── caishuzi/
-│   ├── day03_student_list/
-│   ├── day04_student_dict/
-│   ├── day05_word_count/
-|   └── day06_function_review/   
+│   ├── day03_student_list/           #学生管理系统（list）
+│   ├── day04_student_dict/           #学生管理系统（dict）
+│   ├── day05_word_count/             #计数
+|   ├── day06_function_review/        
+|   ├── day07_os_rename/              #重命名文件名
 ├── crawler_douban/                   # 豆瓣爬虫项目
 └── images/                           # 图片资源
 ```
