@@ -8,37 +8,28 @@
 ## 📌 当前进度
 
 - [x] 学习规划已完成 ✅ 2026.5.11
-- [ ] Python 基础梳理
-- [ ] 数据结构与算法
-- [ ] 数据库与 SQL
+- [ ] Python 
+- [ ] 数据结构
+- [ ] Mysql
 - [ ] Linux 操作系统
-- [ ] Hadoop / Spark
-- [ ] 数据分析与可视化
-- [ ] 机器学习入门
 
 ---
 
 ## 📂 仓库结构
 
 ```
-zsb_mnkjxy/
-├── README.md                         # 仓库介绍
-├── python-learning-plan.md           # 学习总体规划
-├── git-cheatsheet.md                 # Git 命令速查
-├── requirements.txt                  # Python 依赖
-├── CHANGELOG.md                      # 学习日志
-├── Python_syntax/                    # Python 基础练习
-│   ├── day01_BMIjisuanqi/
-│   ├── day02/                        # 99乘法表 + 猜数字
-│   │   ├── 99chengfabiao/
-│   │   └── caishuzi/
-│   ├── day03_student_list/           #学生管理系统（list）
-│   ├── day04_student_dict/           #学生管理系统（dict）
-│   ├── day05_word_count/             #计数
-|   ├── day06_function_review/        
-|   ├── day07_os_rename/              #重命名文件名
-├── crawler_douban/                   # 豆瓣爬虫项目
-└── images/                           # 图片资源
+mnkjxy/
+├── README.md  CHANGELOG.md  git-cheatsheet.md
+├── python-learning-plan.md  requirements.txt  .gitignore
+├── images/             梦开始的地方.png
+├── crawler_douban/     爬虫脚本 + demo 网页
+├── Homework/           【新增】按语言归档
+│   ├── C/              6 个 lab，32 个 .cpp + 12 张截图
+│   ├── Data_Structure/ 6 个 lab，17 个 .cpp
+│   ├── Java/           5 个 lab（lab1/2/4/5/6，lab3 缺），24 个 .java
+│   └── Python/         6 个 .ipynb
+└── Python_syntax/      7 天练习，8 个 .py
+
 ```
 
 ## 🛠️ 使用到的工具和技术
