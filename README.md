@@ -24,9 +24,9 @@ mnkjxy/
 ├── images/             梦开始的地方.png
 ├── crawler_douban/     爬虫脚本 + demo 网页
 ├── Homework/           【新增】按语言归档
-│   ├── C/              6 个 lab，32 个 .cpp + 12 张截图
+│   ├── C/              6 个 lab，32 个 .cpp
 │   ├── Data_Structure/ 6 个 lab，17 个 .cpp
-│   ├── Java/           5 个 lab（lab1/2/4/5/6，lab3 缺），24 个 .java
+│   ├── Java/           6 个 lab（lab1/2/4/5/6）
 │   └── Python/         6 个 .ipynb
 └── Python_syntax/      7 天练习，8 个 .py
 
