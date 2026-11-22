@@ -34,7 +34,7 @@ mnkjxy/
 
 ## 📄 License
 
-MIT © kisstt18
+MIT
 
 ---
 
